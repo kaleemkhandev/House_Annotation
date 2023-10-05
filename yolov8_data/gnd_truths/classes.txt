@@ -1,0 +1,3 @@
+window
+door
+garage door
